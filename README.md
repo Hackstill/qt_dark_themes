@@ -1,4 +1,4 @@
-Qt Creator Wombat Theme
+Qt Creator Dracula Theme
 =======================
 
 This is a dark color scheme for Qt Creator inspired from the VIM [qt_dracula][1] theme. In addition to the color scheme it also styles widgets such as combo boxes, tree views etc. to offer an elegant and uniform look and feel.
@@ -17,7 +17,7 @@ Install
 
 The theme consists of two parts:
 
-1. The wombat colorscheme
+1. The Dracula colorscheme
 2. The application stylesheet
 
 The colorscheme should be copied in the styles directory of Qt Creator such as ~/.config/QtProject/qtcreator/styles
