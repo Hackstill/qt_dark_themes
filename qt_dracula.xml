@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="qt_dracula">
-  <style name="Text" foreground="#ebac90" background="#242424"/>
+  <style name="Text" foreground="#ebac90" background="#3b3b3b"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#ffffff" background="#3399ff"/>
-  <style name="LineNumber" foreground="#857b6f"/>
+  <style name="LineNumber" foreground="#c5ae92" background="#313131"/>
   <style name="SearchResult" foreground="#d57544" bold="true"/>
   <style name="SearchScope" foreground="#000000"/>
   <style name="Parentheses" foreground="#e3e0d7" bold="true"/>
@@ -25,10 +25,10 @@
   <style name="Operator" foreground="#91dbfc"/>
   <style name="Preprocessor" foreground="#e5786d"/>
   <style name="Label" foreground="#95e454"/>
-  <style name="Comment" foreground="#9c998e" bold="true"/>
-  <style name="Doxygen.Comment" foreground="#9c998e"/>
+  <style name="Comment" foreground="#aae0de" bold="true"/>
+  <style name="Doxygen.Comment" foreground="#aae0de"/>
   <style name="Doxygen.Tag" foreground="#bcb9ac" bold="true"/>
-  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="VisualWhitespace" foreground="#616161"/>
   <style name="QmlLocalId" foreground="#000000" italic="true"/>
   <style name="QmlExternalId" foreground="#000080" italic="true"/>
   <style name="QmlTypeId" foreground="#800080"/>
@@ -40,7 +40,7 @@
   <style name="JsGlobalVar" foreground="#0055af" italic="true"/>
   <style name="QmlStateName" foreground="#000000" italic="true"/>
   <style name="Binding" foreground="#800000"/>
-  <style name="DisabledCode" foreground="#545454"/>
+  <style name="DisabledCode" foreground="#888888"/>
   <style name="AddedLine" foreground="#00aa00"/>
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="DiffFile" foreground="#000080"/>
